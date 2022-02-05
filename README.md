@@ -1,4 +1,4 @@
 # My Homepage
 
-This is my homepage repository. (https://yingfan-bot.github.io or http://pages.cs.wisc.edu/~yingfan)
+This is my homepage repository. (http://pages.cs.wisc.edu/~yingfan)
 
