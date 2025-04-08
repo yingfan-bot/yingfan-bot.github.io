@@ -10,7 +10,7 @@ body {
   background-color: #f2f2f2;
     font-family: "Lato";
     font-weight: 300;
-    font-size: 16px;
+    font-size: 17px;
     color: #555;
 
     -webkit-font-smoothing: antialiased;
@@ -37,7 +37,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #0091ff;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -124,9 +124,9 @@ a:after {
 
 #section-topbar ul#nav a {
   display: block;
-  font: normal 11px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: normal 17px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoration: none;
-  padding: 18px 20px 18px 20px;
+  padding: 17px 20px 17px 20px;
   border-left: 1px solid #222;
 }
 
@@ -145,7 +145,7 @@ a:after {
 			background: #44bbaa;
 		}
 #section-topbar i {
-	font-size: 25px;
+	font-size: 17px;
 }
 /*---------------------------------------------------
 	SECTION WRAPS
@@ -153,10 +153,10 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header_pic.jpg) no-repeat center top;
-	margin-top: 60px;
-	padding-top:140px;
-	text-align:center;
+	background: url(../img/header_pic.jpg) no-repeat top;
+	margin-top: 0px;
+	padding-top: 140px;
+	text-align: center;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 500px;
@@ -179,7 +179,7 @@ a:after {
 }
 
 #headerwrap h3 {
-	font-size: 20px;
+	font-size: 17px;
 	color: white;
 }
 
@@ -194,11 +194,12 @@ a:after {
 
 #intro h5, p {
 	color: white;
+	font-size: 17px;
 }
 
 #intro i {
 	color: white;
-	font-size: 20px;
+	font-size: 17px;
 	padding-right: 8px;
 	vertical-align: middle;
 }
@@ -213,6 +214,7 @@ a:after {
 
 #skillswrap h5, p {
 	color: white;
+	font-size: 17px;
 }
 
 #footwrap {
@@ -227,6 +229,7 @@ a:after {
 
 #footwrap h5 {
 	color: white;
+	font-size: 17px;
 }
 
 
@@ -243,7 +246,7 @@ a:after {
 
 #c {
 	background: #222222;
-	padding-top: 15px;
+	padding-top: 14px;
 	text-align: right;
 }
 
@@ -280,5 +283,5 @@ a:after {
 
 
 sm {
-	font-size: 12px;
+	font-size: 17px;
 }
