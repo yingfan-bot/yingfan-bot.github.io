@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://yingfan-bot.github.io/</loc>
+    <lastmod>2025-04-29</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more URLs below as needed -->
+  <!-- Example:
+  <url>
+    <loc>https://yingfan-bot.github.io/publications.html</loc>
+    <lastmod>2025-04-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>
