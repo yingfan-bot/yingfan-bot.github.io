@@ -8,7 +8,7 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: "Lato";
+    font-family: "Helvetica", sans-serif;
     font-weight: 300;
     font-size: 17px;
     color: #555;
@@ -19,7 +19,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: "Helvetica", sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -84,7 +84,7 @@ a:after {
 	right: 0;
 	z-index: 10000;
 	overflow: visible;
-	font: normal 16px/24px  'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: normal 16px/24px  'Helvetica', sans-serif;
 }
 
 #section-topbar a {
@@ -124,7 +124,7 @@ a:after {
 
 #section-topbar ul#nav a {
   display: block;
-  font: normal 17px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: normal 17px/20px "Helvetica", sans-serif;
   text-decoration: none;
   padding: 17px 20px 17px 20px;
   border-left: 1px solid #222;
